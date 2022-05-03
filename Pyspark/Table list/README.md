@@ -1,4 +1,4 @@
-#List with the names of all tables in a database
+# List with the names of all tables in a database
 
 This pyspark script can be used to return a list of all tables that exist in a databricks database.
 
